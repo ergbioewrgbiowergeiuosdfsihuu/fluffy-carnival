@@ -1,0 +1,11 @@
+{
+  "name": "advanced-proxy-backend",
+  "version": "1.0.0",
+  "description": "Bare-metal Node.js proxy engine for handling WebSockets and HTTP requests.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
